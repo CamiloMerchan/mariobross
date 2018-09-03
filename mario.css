@@ -1,0 +1,56 @@
+body{
+background-color: white;
+}
+div{
+	float: left;
+}
+.ladrillo{
+
+	background-image: url("img/ladrillo.png");
+	border: 1px solid red;
+	width: 890px;
+	height: 20px;
+	margin-left: 1px;
+	clear: both;
+	margin-top: 580px;
+	
+}
+.nubes,.nubes2{
+
+	background-image: url("img/nubes.png");
+    background-repeat: no-repeat;
+    background-size: 400px 150px;
+	width: 400px;
+	height: 200px;
+	
+
+}
+.nubes2{
+
+	background-image: url("img/nubes.png");
+    background-repeat: no-repeat;
+    background-size: 400px 150px;
+	width: 400px;
+	height: 200px;
+	
+
+}
+.bros{
+
+	background-image: url("img/arbol.png");
+    background-repeat: no-repeat;
+    background-size: 400px 150px;
+    background-repeat: no-repeat;
+    clear: both;
+	width: 400px;
+	height: 200px;
+	
+
+}
+.mayor{
+	width:900px; 
+	height:1000px;
+	border: 5px solid red;
+	background-color: #A2ECFF;
+	background-repeat: no-repeat;
+}
